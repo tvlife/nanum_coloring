@@ -20,14 +20,20 @@
 💖 나눔을 실천하는 색칠놀이
 
 
-![Screenshot_20250326_000819](https://github.com/user-attachments/assets/c96504a5-d2e9-499c-b624-796dbbba5772)
-![Screenshot_20250326_001012](https://github.com/user-attachments/assets/11568c30-4dde-4a1f-a97f-117eaa70aeb9)
+![Screenshot_20250326_000819](https://github.com/user-attachments/assets/93bfe20c-a330-4930-a8cf-c152f5ffb552)
+![Screenshot_20250326_001012](https://github.com/user-attachments/assets/91fceedf-0ae9-4a4b-a1cf-928c01120572)
 
 
 
 
 
-연락처
+🎨 앞으로 진행사항
+
+1. 사용자 다운로드 서비스
+2. AI 이미지 생성
+
+
+💖 연락처
 
 프로젝트에 관한 질문이나 제안이 있으시면 다음 이메일로 연락해주세요:
 
